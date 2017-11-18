@@ -4,7 +4,7 @@
    
 case "$1" in
 "add")
-	cp ./ssr.mt /tmp/ss.mt >/dev/null 2>&1
+	cp ./ss.mt /tmp/ss.mt >/dev/null 2>&1
 	if [ $? -ne 0 ];then
 		echo -e "1801\c"
 		exit
