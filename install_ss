@@ -10,7 +10,7 @@ case "$1" in
 		exit
 	fi
 	cd /tmp
-	unzip -o /tmp/ss.mt -d /tmp >/dev/null 2>&1
+	unzip -o  -P Misstar_Tools@2017 /tmp/ss.mt -d /tmp >/dev/null 2>&1
 	
 	if [ $? -ne 0 ];then
 		echo -e "1802\c"
