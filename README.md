@@ -7,6 +7,6 @@ chmod +x install_ss
 
 wget https://raw.githubusercontent.com/ck66/misstartools/master/ss.mt
 
-ash install_ss add
+bash install_ss add
 
 rm -rf ss.mt
