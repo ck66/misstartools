@@ -1,4 +1,4 @@
-# misstartools
+# MisstarTools
 安装
 
 wget https://raw.githubusercontent.com/ck66/misstartools/master/install_ss
